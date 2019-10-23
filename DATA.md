@@ -72,18 +72,18 @@ name: pistol --- weight: 20
 
 ### Rooms
 
-name: Dining Room
-name: Conservatory
-name: Kitchen
-name: Study
-name: Library
-name: Billiard Room
-name: Lounge
-name: Ballroom
-name: Hall
-name: Spa
-name: Living Room
-name: Observatory
-name: Theater
-name: Guest House
-name: Patio
+{ name: "Dining Room" }
+{ name: "Conservatory" }
+{ name: "Kitchen" }
+{ name: "Study" }
+{ name: "Library" }
+{ name: "Billiard Room" }
+{ name: "Lounge" }
+{ name: "Ballroom" }
+{ name: "Hall" }
+{ name: "Spa" }
+{ name: "Living Room" }
+{ name: "Observatory" }
+{ name: "Theater" }
+{ name: "Guest House" }
+{ name: "Patio" }
